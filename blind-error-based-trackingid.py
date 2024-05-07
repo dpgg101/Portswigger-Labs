@@ -3,7 +3,7 @@ import argparse
 import string
 
 def par():
-    parser = argparse.ArgumentParser(description='Blind SQL injection with conditional responses')
+    parser = argparse.ArgumentParser(description='Blind SQL injection with conditional errors')
     parser.add_argument('--url', type=str, required=True, help='URL of the target')
     return parser.parse_args()
 
