@@ -5,7 +5,12 @@ Usage:
 python3 blind-sql-trackingid.py
                                                                           
 usage: blind-sql-trackingid.py [-h] --url URL
-blind-sql-trackingid.py: error: the following arguments are required: --ur
+
+Blind SQL injection with conditional responses
+
+options:
+  -h, --help  show this help message and exit
+  --url URL   URL of the target
 ```
 Requirements:
 - requests
