@@ -28,7 +28,7 @@ Usage:
 $ python3 blind-error-based-trackingid.py                                                                     
 usage: blind-error-based-trackingid.py [-h] --url URL
 
-Blind SQL injection with conditional responses
+Blind SQL injection with conditional errors
 
 options:
   -h, --help  show this help message and exit
